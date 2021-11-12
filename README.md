@@ -6,8 +6,8 @@ The solution how I used is:
 1. put all sections of courses that u want to take in google calendar
 2. then there will be some overlapped sections/courses
 3. I trim down these course/sections with my own priorities.
-3-1. I can put some conditions based on the conflicts of the coureses, or requirements.
-4. yay! u have your course plans!. now we dont have to spamming "next schedule" of CSP or WebReg!!!!!!
+4. I can put some conditions based on the conflicts of the coureses, or requirements.
+5. yay! u have your course plans!. now we dont have to spamming "next schedule" of CSP or WebReg!!!!!!
 
 
 ex: lets say there are 2 courses, A and B, and lets say there are 2 prof, X and Y, in the course A. X is good, and Y is bad. you dont want to take Y's A course right?
