@@ -1,4 +1,6 @@
 # Side-Project-Prerequsite-and-Course-planner
+**UNSTARTED PROJECTED**
+
 Uh.... it would be really hard for now... I don't know GUI at all...
 
 I want to implement a method that solve my struggle when I planning course schedule for 2021 Fall
