@@ -1,5 +1,5 @@
 # Side-Project-Prerequsite-and-Course-planner
-**UNSTARTED PROJECTED**
+**UNSTARTED PROJECT**
 
 Uh.... it would be really hard for now... I don't know GUI at all...
 
